@@ -1,0 +1,9 @@
+{
+	"name":"simple/verysimple",
+	"description":"very simple project",
+	"license":"MIT",
+
+	"autoload":{
+		"classmap":["Model"]
+	}
+}
